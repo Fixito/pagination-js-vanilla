@@ -1,3 +1,3 @@
 # paginate-js-vanilla
 
-Thomas
+Peter
