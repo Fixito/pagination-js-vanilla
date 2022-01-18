@@ -1,1 +1,3 @@
 # paginate-js-vanilla
+
+Thomas
