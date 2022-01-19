@@ -8,4 +8,4 @@ Julien S
 Arnaud
 Quentin
 Dylan
-Teddy
+Teddy W
